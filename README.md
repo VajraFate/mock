@@ -7,6 +7,7 @@ node + mock 数据
 
 ### 2.babel 6 转es5
 + 需要使用babel6 需要安装babel-core或者babel-cli
++ 需要babel添加插件babel-preset-es2015
 + 在app.js中加入 require('babel-core/register') 
 
 ### 3.mock使用
